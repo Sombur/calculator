@@ -14,8 +14,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var textField2: UITextField!
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
